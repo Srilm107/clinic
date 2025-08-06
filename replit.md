@@ -1,6 +1,14 @@
 # Overview
 
-Evergreen Family Clinic is a modern healthcare web application that serves as a complete digital presence for a family medical practice. The application provides a comprehensive platform for patients to learn about medical services, view doctor profiles, book appointments, and contact the clinic. Built with a full-stack TypeScript architecture, it combines a React frontend with an Express.js backend, featuring a clean, responsive design optimized for healthcare interactions.
+Evergreen Family Clinic is a modern healthcare web application that serves as a complete digital presence for a family medical practice. The application provides a comprehensive platform for patients to learn about medical services, view detailed doctor profiles, book appointments, and contact the clinic. Built with a full-stack TypeScript architecture, it combines a React frontend with an Express.js backend, featuring a clean, responsive design optimized for healthcare interactions.
+
+## Recent Changes (August 2025)
+- Expanded medical team from 3 to 6 healthcare professionals
+- Enhanced doctor profiles with detailed biographies, specializations, and credentials
+- Added comprehensive medical specialties overview section
+- Improved doctor cards with better visual design and truncated bios
+- Updated appointment booking form to include all new doctors
+- Added medical team statistics and excellence indicators
 
 # User Preferences
 

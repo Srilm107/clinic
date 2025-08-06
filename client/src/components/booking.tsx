@@ -160,9 +160,12 @@ export default function Booking() {
                   </SelectTrigger>
                   <SelectContent>
                     <SelectItem value="any">Any Available Doctor</SelectItem>
-                    <SelectItem value="dr-sarah-johnson">Dr. Sarah Johnson - Family Medicine</SelectItem>
-                    <SelectItem value="dr-michael-chen">Dr. Michael Chen - Pediatrics</SelectItem>
-                    <SelectItem value="dr-robert-martinez">Dr. Robert Martinez - Internal Medicine</SelectItem>
+                    <SelectItem value="dr-sarah-johnson">Dr. Sarah Johnson - Family Medicine & Women's Health</SelectItem>
+                    <SelectItem value="dr-michael-chen">Dr. Michael Chen - Pediatrics & Adolescent Medicine</SelectItem>
+                    <SelectItem value="dr-robert-martinez">Dr. Robert Martinez - Internal Medicine & Cardiology</SelectItem>
+                    <SelectItem value="dr-emily-rodriguez">Dr. Emily Rodriguez - Family Medicine & Mental Health</SelectItem>
+                    <SelectItem value="dr-james-wilson">Dr. James Wilson - Urgent Care & Sports Medicine</SelectItem>
+                    <SelectItem value="dr-lisa-thompson">Dr. Lisa Thompson - Nurse Practitioner & Chronic Care</SelectItem>
                   </SelectContent>
                 </Select>
               </div>
