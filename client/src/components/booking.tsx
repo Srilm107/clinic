@@ -166,6 +166,9 @@ export default function Booking() {
                     <SelectItem value="dr-emily-rodriguez">Dr. Emily Rodriguez - Family Medicine & Mental Health</SelectItem>
                     <SelectItem value="dr-james-wilson">Dr. James Wilson - Urgent Care & Sports Medicine</SelectItem>
                     <SelectItem value="dr-lisa-thompson">Dr. Lisa Thompson - Nurse Practitioner & Chronic Care</SelectItem>
+                    <SelectItem value="dr-maria-gonzalez">Dr. Maria Gonzalez - Family Medicine & Geriatrics</SelectItem>
+                    <SelectItem value="dr-kevin-park">Dr. Kevin Park - Internal Medicine & Diabetes Care</SelectItem>
+                    <SelectItem value="dr-amanda-foster">Dr. Amanda Foster - Pediatrics & Adolescent Health</SelectItem>
                   </SelectContent>
                 </Select>
               </div>

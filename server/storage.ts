@@ -79,6 +79,30 @@ export class MemStorage implements IStorage {
         education: "DNP, University of Pennsylvania",
         experience: "7 Years",
         imageUrl: "https://images.unsplash.com/photo-1638202993928-7267aad84c31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&h=300"
+      },
+      {
+        name: "Dr. Maria Gonzalez",
+        specialty: "Family Medicine & Geriatrics",
+        bio: "Dr. Gonzalez is a bilingual family medicine physician specializing in comprehensive care for patients across all life stages, with particular expertise in geriatric medicine and chronic disease management. She completed her medical training at UC San Francisco and her residency at Stanford Family Medicine. Dr. Gonzalez is fluent in Spanish and English, serving the diverse Greenfield community with culturally sensitive care.",
+        education: "MD, University of California San Francisco",
+        experience: "14 Years",
+        imageUrl: "https://images.unsplash.com/photo-1582750433449-648ed127bb54?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&h=300"
+      },
+      {
+        name: "Dr. Kevin Park",
+        specialty: "Internal Medicine & Diabetes Care",
+        bio: "Dr. Park is an internal medicine specialist with advanced training in endocrinology and diabetes management. He provides comprehensive care for adults with complex medical conditions, focusing on diabetes, thyroid disorders, and metabolic syndrome. Dr. Park completed his fellowship at UCSF Diabetes Center and is board-certified in Internal Medicine and Endocrinology.",
+        education: "MD, Stanford University School of Medicine",
+        experience: "11 Years",
+        imageUrl: "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&h=300"
+      },
+      {
+        name: "Dr. Amanda Foster",
+        specialty: "Pediatrics & Adolescent Health",
+        bio: "Dr. Foster is a pediatrician with special interest in adolescent health, childhood obesity prevention, and developmental pediatrics. She provides comprehensive care from newborn through age 21, with expertise in adolescent mental health and behavioral issues. Dr. Foster completed her pediatric residency at Children's Hospital Oakland and is board-certified by the American Board of Pediatrics.",
+        education: "MD, UC Davis School of Medicine",
+        experience: "9 Years",
+        imageUrl: "https://images.unsplash.com/photo-1594824475360-d95b0ac7d36b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&h=300"
       }
     ];
 

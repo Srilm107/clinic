@@ -129,11 +129,11 @@ export default function Doctors() {
             </p>
             <div className="grid md:grid-cols-3 gap-6 mt-8">
               <div className="text-center">
-                <div className="text-3xl font-bold text-blue-600 mb-2">6</div>
+                <div className="text-3xl font-bold text-blue-600 mb-2">9</div>
                 <div className="text-sm text-black">Medical Professionals</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-blue-600 mb-2">60+</div>
+                <div className="text-3xl font-bold text-blue-600 mb-2">95+</div>
                 <div className="text-sm text-black">Years Combined Experience</div>
               </div>
               <div className="text-center">
