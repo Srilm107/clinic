@@ -21,11 +21,28 @@ export default function Doctors() {
       <section id="doctors" className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
-            <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
+            <h2 className="text-3xl lg:text-4xl font-bold text-black mb-4">
               Meet Our Medical Team
             </h2>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+            <p className="text-xl text-black max-w-3xl mx-auto">
               Loading doctors...
+            </p>
+          </div>
+        </div>
+      </section>
+    );
+  }
+
+  if (!doctors || doctors.length === 0) {
+    return (
+      <section id="doctors" className="py-20 bg-white">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center">
+            <h2 className="text-3xl lg:text-4xl font-bold text-black mb-4">
+              Meet Our Medical Team
+            </h2>
+            <p className="text-xl text-black max-w-3xl mx-auto">
+              No doctors available at the moment. Please check back later.
             </p>
           </div>
         </div>
@@ -99,8 +116,8 @@ export default function Doctors() {
                   </Badge>
                 </div>
                 
-                <p className="text-black text-sm leading-relaxed text-left">
-                  {doctor.bio.length > 200 ? `${doctor.bio.substring(0, 200)}...` : doctor.bio}
+                <p className="text-black text-sm leading-relaxed text-left font-medium">
+                  {doctor.bio}
                 </p>
               </div>
               

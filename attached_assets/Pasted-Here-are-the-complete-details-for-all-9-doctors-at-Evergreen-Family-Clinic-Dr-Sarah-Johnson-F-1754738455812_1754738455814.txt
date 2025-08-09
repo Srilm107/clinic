@@ -1,0 +1,44 @@
+Here are the complete details for all 9 doctors at Evergreen Family Clinic:
+
+Dr. Sarah Johnson - Family Medicine & Women's Health
+Education: MD, Johns Hopkins University School of Medicine
+Experience: 12+ Years
+Bio: Board-certified family physician with 12+ years of experience providing comprehensive care for patients of all ages. Dr. Johnson specializes in preventive medicine, chronic disease management, women's health, and geriatric care. She is passionate about building long-term relationships with her patients and their families, focusing on preventive care to maintain optimal health. Dr. Johnson completed her residency at Massachusetts General Hospital and is certified by the American Board of Family Medicine.
+Dr. Michael Chen - Pediatrics & Adolescent Medicine
+Education: MD, Stanford University School of Medicine
+Experience: 8 Years
+Bio: Dr. Chen is a dedicated pediatrician with extensive expertise in child development, behavioral pediatrics, immunizations, and adolescent medicine. He provides compassionate care for infants, children, and teenagers, working closely with families to ensure healthy development. Dr. Chen is fluent in English and Mandarin, making him an excellent choice for diverse families in our community. He completed his pediatric residency at UCSF Benioff Children's Hospital and is board-certified by the American Board of Pediatrics.
+Dr. Robert Martinez - Internal Medicine & Cardiology
+Education: MD, UCLA David Geffen School of Medicine
+Experience: 15+ Years
+Bio: Dr. Martinez is an experienced internal medicine physician specializing in adult primary care, cardiovascular health, diabetes management, and preventive medicine. With over 15 years of clinical experience, he has helped thousands of patients manage chronic conditions and maintain optimal health. Dr. Martinez is particularly skilled in managing complex medical conditions and coordinating care with specialists when needed. He completed his internal medicine residency at UCLA Medical Center and holds board certifications in both Internal Medicine and Cardiovascular Disease.
+Dr. Emily Rodriguez - Family Medicine & Mental Health
+Education: MD, University of California San Francisco
+Experience: 10 Years
+Bio: Dr. Rodriguez is a family medicine physician with special training in behavioral health and mental wellness. She provides comprehensive primary care while addressing the mental health needs of her patients, including anxiety, depression, and stress management. Dr. Rodriguez believes in treating the whole person, not just symptoms, and is committed to creating a safe, supportive environment for all patients. She completed dual residencies in Family Medicine and Psychiatry at the University of California San Francisco.
+Dr. James Wilson - Urgent Care & Sports Medicine
+Education: MD, University of Washington School of Medicine
+Experience: 9 Years
+Bio: Dr. Wilson specializes in urgent care medicine and sports medicine, providing immediate care for non-life-threatening injuries and illnesses. He has extensive experience treating sprains, fractures, lacerations, infections, and other acute medical conditions. Dr. Wilson also provides comprehensive sports medicine services, including injury prevention, performance optimization, and rehabilitation. He is certified in Advanced Cardiac Life Support (ACLS) and serves as our clinic's urgent care director.
+Dr. Lisa Thompson - Nurse Practitioner & Chronic Care
+Education: DNP, University of Pennsylvania
+Experience: 7 Years
+Bio: Dr. Thompson is a board-certified Family Nurse Practitioner with expertise in chronic disease management, diabetes care, and preventive health. She works collaboratively with our physicians to provide comprehensive care, specializing in patient education and lifestyle counseling. Dr. Thompson has a particular interest in helping patients manage diabetes, hypertension, and other chronic conditions through evidence-based treatment plans and ongoing support.
+Dr. Maria Gonzalez - Family Medicine & Geriatrics
+Education: MD, University of California San Francisco
+Experience: 14 Years
+Bio: Dr. Gonzalez is a bilingual family medicine physician specializing in comprehensive care for patients across all life stages, with particular expertise in geriatric medicine and chronic disease management. She completed her medical training at UC San Francisco and her residency at Stanford Family Medicine. Dr. Gonzalez is fluent in Spanish and English, serving the diverse Greenfield community with culturally sensitive care.
+Dr. Kevin Park - Internal Medicine & Diabetes Care
+Education: MD, Stanford University School of Medicine
+Experience: 11 Years
+Bio: Dr. Park is an internal medicine specialist with advanced training in endocrinology and diabetes management. He provides comprehensive care for adults with complex medical conditions, focusing on diabetes, thyroid disorders, and metabolic syndrome. Dr. Park completed his fellowship at UCSF Diabetes Center and is board-certified in Internal Medicine and Endocrinology.
+Dr. Amanda Foster - Pediatrics & Adolescent Health
+Education: MD, UC Davis School of Medicine
+Experience: 9 Years
+Bio: Dr. Foster is a pediatrician with special interest in adolescent health, childhood obesity prevention, and developmental pediatrics. She provides comprehensive care from newborn through age 21, with expertise in adolescent mental health and behavioral issues. Dr. Foster completed her pediatric residency at Children's Hospital Oakland and is board-certified by the American Board of Pediatrics.
+Total Team Statistics:
+
+9 Medical Professionals
+95+ Years Combined Experience
+100% Board Certified
+Specialties include Family Medicine, Pediatrics, Internal Medicine, Cardiology, Mental Health, Urgent Care, Geriatrics, and Diabetes Care
