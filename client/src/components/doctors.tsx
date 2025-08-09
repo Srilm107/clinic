@@ -146,22 +146,15 @@ export default function Doctors() {
         </div>
         
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mt-16">
-          {doctors.map((doctor, index) => (
+          {doctors?.map((doctor, index) => (
             <div key={doctor.id} className="bg-white rounded-xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 fade-in border border-gray-100 hover:border-blue-200 transform hover:-translate-y-1">
               <div className="text-center mb-6">
-                <div className="relative">
-                  <img 
-                    src={doctor.imageUrl} 
-                    alt={`${doctor.name} - ${doctor.specialty}`} 
-                    className="w-28 h-28 rounded-full mx-auto mb-4 object-cover shadow-lg border-4 border-blue-100" 
-                  />
-                  <div className="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
-                    <Badge variant="secondary" className="bg-blue-600 text-white text-xs px-3 py-1 rounded-full shadow-md">
-                      {doctor.experience}
-                    </Badge>
-                  </div>
+                <div className="mb-2">
+                  <Badge variant="secondary" className="bg-blue-600 text-white text-xs px-3 py-1 rounded-full shadow-md">
+                    {doctor.experience}
+                  </Badge>
                 </div>
-                <h3 className="text-xl font-bold text-black mb-2 mt-4">{doctor.name}</h3>
+                <h3 className="text-xl font-bold text-black mb-2 mt-2">{doctor.name}</h3>
                 <p className="text-blue-600 font-semibold text-base mb-3">{doctor.specialty}</p>
               </div>
               
