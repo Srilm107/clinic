@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist/public",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ],
+  "functions": {
+    "api/doctors.ts": {
+      "runtime": "nodejs18.x"
+    },
+    "api/appointments.ts": {
+      "runtime": "nodejs18.x"
+    },
+    "api/contact.ts": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
