@@ -63,10 +63,10 @@ Vercel will automatically detect these settings from `vercel.json`:
 
 ### API Routes
 
-The following serverless functions are created:
-- `/api/doctors` - GET request to fetch doctors
-- `/api/appointments` - POST request to create appointments  
-- `/api/contact` - POST request to send contact messages
+Vercel automatically detects TypeScript serverless functions in the `/api` directory:
+- `/api/doctors.ts` - GET request to fetch doctors
+- `/api/appointments.ts` - POST request to create appointments  
+- `/api/contact.ts` - POST request to send contact messages
 
 ### Environment Variables
 
